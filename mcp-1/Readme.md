@@ -1,1 +1,1 @@
-The tar.gz contains approximately 1729 emails stored as .eml files. The emails are from a collection of accounts, many fictitious. Some emails contain attachments.
+The file MCPDemo.tar.gz contains approximately 1729 emails stored as .eml files. The emails are from a collection of accounts, many fictitious. Some emails contain attachments.
