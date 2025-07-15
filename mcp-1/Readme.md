@@ -7,3 +7,7 @@ The file MCPDemo.tar.gz contains approximately 1729 emails stored as .eml files.
 ### mxMCP Benchmark.xlsx
 
 Excel spreadsheet with queries and response scores.
+
+### email-discovery-benchmark-study.pdf
+
+Whitepaper summarization of test results.
